@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: Wanderlens
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "https://rorobig.github.io"
+baseurl: "/wanderlens"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Roro
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://rorobig.github.io/photorama/gallery/"  
+  - JOURNAL: "https://rorobig.github.io/photorama/journal/"
+  - ABOUT: "https://rorobig.github.io/photorama/about/"
 
 # All translation keys
 translations:
