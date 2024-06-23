@@ -7,7 +7,7 @@ baseurl: "/wanderlens"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
-github_username:  ""
+github_username:  "rorobig"
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://rorobig.github.io/photorama/gallery/"  
-  - JOURNAL: "https://rorobig.github.io/photorama/journal/"
-  - ABOUT: "https://rorobig.github.io/photorama/about/"
+  - GALLERY: "https://rorobig.github.io/wanderlens/gallery/"  
+  - JOURNAL: "https://rorobig.github.io/wanderlens/journal/"
+  - ABOUT: "https://rorobig.github.io/wanderlens/about/"
 
 # All translation keys
 translations:
